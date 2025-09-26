@@ -1,6 +1,9 @@
 Nama : Alyshia Cagivani Yasmin
+
 NPM : 4523210011
+
 Matkul PBW A
+
 Praktikum ke 2
 
 # Praktikum 2: Aplikasi PHP Dasar - Form Pendaftaran Event
@@ -16,6 +19,11 @@ Aplikasi ini mencakup implementasi dari beberapa konsep dasar PHP, yaitu:
 - Validasi dengan Regex: Memastikan format input email dan tanggal lahir (DD-MM-YYYY) sudah benar.
 - Operasi File: Menyimpan setiap pendaftar yang valid ke dalam file `pendaftar.txt`.
 - Menampilkan Data: Membaca data dari `pendaftar.txt` dan menampilkannya dalam bentuk tabel.
+
+  # Instal Laragon
+  1. download laragon <img width="456" height="158" alt="Screenshot 2025-09-26 102558" src="https://github.com/user-attachments/assets/667898dd-ec75-49c9-ab51-5c4d0beaffb5" />
+  2. masuk ke apk laragon lalu klik mulai semua, hingga ketiga - tiga nya hidup semua <img width="939" height="629" alt="image" src="https://github.com/user-attachments/assets/fb8b58d0-cad8-4905-b80e-c67359bf153d" />
+  3. klik root, lalu akan di alihkan ke file manager dengan nama file C:\laragon\www\Praktikum2 
 
   #Tampilan Aplikasi
   1. Tampilan Awal Form <img width="956" height="825" alt="image" src="https://github.com/user-attachments/assets/77bca02e-2f4d-45d6-8780-8fb197143e74" />
