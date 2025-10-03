@@ -3,9 +3,19 @@
 LaraPress adalah aplikasi blog sederhaana yang dibuat dengan Laravel 12
 Proyek ini dibuat untuk tujuan pembelajaran dan pengembangan keterampilan
 
-<img width="888" height="433" alt="image" src="https://github.com/user-attachments/assets/177d1233-70a7-4f43-ae14-1eb18a78320f" />
+<img width="1031" height="572" alt="image" src="https://github.com/user-attachments/assets/c09ce8f6-1216-4c92-8b90-959c356be431" />
+
 
 Halaman Utama LaraPress
+
+<img width="1028" height="450" alt="image" src="https://github.com/user-attachments/assets/b397483c-f500-4f57-ba64-2e3355d9703c" />
+
+Halaman Tentang Kami
+
+<img width="1028" height="503" alt="image" src="https://github.com/user-attachments/assets/aec31c4d-87b5-433c-9d5a-8f83b0ba3ccf" />
+
+Halaman Kontak Kami
+
 
 ### Tujuan ###
 1. Memahami alur kerja Laravel (request → routing → controller → view → response)
